@@ -22,7 +22,7 @@ Es importante ya que nos ayuda a que a una clase externa se le permita acceder o
 Es determinar de la programación orientada a objetos, donde una rama nueva crece a partir de una rama ya existente. La nueva rama naciente contiene los atributos y métodos de la rama de la cual surge
 # UML: diagrama de clases.
 ## 1. Investiga la historia y haz un resumen del Lenguaje de Modelado Unificado, donde se menciona: quienes son sus principales autores (Booch, Rumbaugh, Jacobson), en que tipo de sistemas se utiliza, en particular el Diagrama de Clases. Menciona algunas de las herramientas para el modelado en UML
-El lenguaje UML comenzó a llevarse a cabo en octubre de 1994, cuando Rumbaugh se unió a la compañía Rational fundada por Booch. El objetivo de ambos era unificar dos métodos que habían desarrollado: el método Booch y el OMT . Jacobson se unió a Rational y se incluyeron ideas suyas. 
+El lenguaje UML comenzó a llevarse a cabo en octubre de 1994, cuando Rumbaugh se unió a la compañía Rational fundada por Booch. El objetivo de ambos era unificar dos métodos que habían desarrollado: el método Booch y el OMT . El primer borrador apareció en octubre de 1995,  Jacobson se unió a Rational y se incluyeron ideas suyas. 
 UML es ante todo un lenguaje, este lenguaje se centra en la representación gráfica de un sistema. Las objetivos de UML son muchos, pero se pueden sintetizar sus funciones:
 
 **Visualizar**: UML permite expresar de una forma gráfica un sistema de forma que otro lo puede entender. 
@@ -48,4 +48,3 @@ UML es un lenguaje de modelado, es una simplificación de la realidad. El *objet
 *No*
 ## 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
 
-La máquina ocupa tener los productos, estos productos tienen un precio y un nombre; también deben tener un cliente el cual escoja el producto y deposite la cantidad de dinero necesaria para comprar el producto; el cambio se dará por medio del deposito que dio el cliente y el precio del producto
