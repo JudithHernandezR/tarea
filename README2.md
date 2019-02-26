@@ -59,6 +59,6 @@ UML es un lenguaje de modelado, es una simplificación de la realidad. El *objet
 ### ¿Sabes de alguna empresa local que utilice este lenguaje? 
 *No*
 #### 2. Escribe una propuesta de una máquina que venda distintos artículos y haz el diagrama de clases del sistema que propones. Recuerda que puede haber composición (un teclado se compone de botones) y generalización (tipo de productos, tipo de pago).
-![alt text](Imagenes1er/clasea.jpg)
+![alt text](Imagenes1er/clasea.JPG)
 
 
